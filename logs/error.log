@@ -1,0 +1,22 @@
+[2022-11-12 11:05:22] listen tcp :4000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+[2022-11-12 11:05:47] listen tcp :4000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+[2022-11-12 11:54:19] listen tcp :4000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+[2022-11-12 11:57:30] listen tcp :4000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+[2022-11-12 11:57:52] listen tcp :4000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+[2022-11-12 11:58:03] listen tcp :4000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+[2023-02-12 19:20:12] DB_USER not set in .env
+
+[2023-02-12 19:20:22] DB_USER not set in .env
+
+[2023-02-12 19:21:51] DB_USER not set in .env
+
+[2023-02-12 19:22:25] DB_USER not set in .env
+
+[2023-02-12 19:22:31] DB_USER not set in .env
+
